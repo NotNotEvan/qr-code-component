@@ -22,7 +22,7 @@ This challenge was completed purely with HTML/CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/670d57315832c087f26e6d4b/challenge/refactor)
 - Live Site URL: [https://qr-code-component-mauve-omega.vercel.app/](https://qr-code-component-mauve-omega.vercel.app/)
 
 ## My process
