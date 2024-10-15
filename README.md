@@ -8,8 +8,6 @@
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 Hello!👋 This QR Code Component is a challenge from Frontend Mentor. Feel free to click the links below to compare the challenge's design vs. my solution.
@@ -40,4 +38,4 @@ This was a great refresher on basic HTML/CSS. For my day job I typically use MUI
 
 ### Useful resources
 
-- [px-to-rem converter](https://nekocalc.com/px-to-rem-converter) - This converter helped we convert the fontsizes based in px on the Figma file to rem so that the page respects the user's text size preferences. 
+- [px-to-rem converter](https://nekocalc.com/px-to-rem-converter) - This converter helped we convert the fontsizes based in px on the Figma file to rem so that the page respects the user's text size preferences.
