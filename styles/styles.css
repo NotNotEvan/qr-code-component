@@ -30,10 +30,12 @@ body {
   background-color: var(--slate300);
 }
 
-h1 {
+h4 {
   font-size: 1.38rem;
   font-weight: 700;
   line-height: 120%;
+
+  margin-top: 24px;
 
   color: var(--slate900);
 }
@@ -43,6 +45,8 @@ p {
   font-weight: 400;
   letter-spacing: 0.01rem;
   line-height: 140%;
+
+  margin-top: 10px;
 
   color: var(--slate500);
 }
