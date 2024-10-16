@@ -5,20 +5,23 @@
   --white: hsl(0, 0%, 100%);
 
   --titleFont: "Outfit", sans-serif;
+  font-family: var(--titleFont);
 }
 
 *,
 *::before,
 *::after {
   box-sizing: border-box;
+}
 
-  padding: 0;
+* {
   margin: 0;
-
-  font-family: var(--titleFont);
 }
 
 body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,6 +31,23 @@ body {
   height: 100dvh;
 
   background-color: var(--slate300);
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+#root, #__next {
+  isolation: isolate;
 }
 
 h4 {
